@@ -42,3 +42,4 @@ yarn-error.log
 
 .notes.md
 baseline.json
+package-lock.json
